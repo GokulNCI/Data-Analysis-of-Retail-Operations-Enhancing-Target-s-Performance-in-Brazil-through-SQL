@@ -1,0 +1,1 @@
+# Data-Analysis-of-Retail-Operations-Enhancing-Target-s-Performance-in-Brazil-through-SQL
