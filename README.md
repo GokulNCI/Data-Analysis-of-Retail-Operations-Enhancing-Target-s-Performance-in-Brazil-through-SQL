@@ -1,3 +1,4 @@
+## Project Description
 • Analysed over 100,000 e-commerce order datasets (2016-2018) for the globally renowned retail company Target using SQL on Google Cloud Platform - BigQuery. Leveraged big data technology to uncover trends, customer behaviour, pricing variations, and shipping preferences within the data warehouse.
 
 • Optimized queries for performance by implementing joins, sub-queries, and CTEs, utilizing query optimization to establish scalable relations between multiple data sources, ensuring efficient handling of large datasets.
